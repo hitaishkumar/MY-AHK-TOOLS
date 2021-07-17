@@ -1,1 +1,20 @@
-enjoy!!
+hello!!
+welcome to my first ever AHK submission.
+
+the script to GET YOUTUBE THUMBNAIL works with the shortcut ( CTRL + F10)
+you NEED to have your chrome window active,( i havent tested it in other browsers. )
+
+if you are having problem with your browser, remove this line from the script and try again, (#IfWinActive ahk_class Chrome_WidgetWin_1 ).
+ 
+if you understand the code feel free to add more comments and additional parameters and dont forget to tell me at : hitaishkumar44@gmail.com
+
+i have been using this code for quite some time for my editing work and have fixed a lot of issues, but i am still no progammer and cannot adhere to its 100% ACCURACY.
+ nonetheless it works quite well.
+ 
+ PROCEDURE TO USE:
+ 1.RIGHT CLICK on any youtube video .(currently running on focus / in the side suggestion bars )
+ 2. Click on " COPY LINK ADDRESS" or " COPY VIDEO URL" if its the video you are curently watching.
+ 3. the youtube video URL is now in your clipboard 
+ 4. press CTRL + F10 
+ 5. a new tab will open with the THUMBNAIL in its highest quality.
+ 6. rejoice and maybe learn more AHK. :)
