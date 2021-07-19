@@ -17,3 +17,28 @@ i have been using this code from quite some time for my editing work and have fi
  4. press CTRL + F10 
  5. a new tab will open with the THUMBNAIL in its highest quality.
  6. rejoice and maybe learn more AHK. :)
+ 
+ 
+ -------------------------------------------
+ -------------------------------------------
+ FOR CUSTOM GOOGLE SERACH AND YOUTUBE SEARCH
+ -------------------------------------------
+ -------------------------------------------
+ 
+ PROCEDURE TO USE
+ 1. highlight a text you want to google and to search press (ctrl + shift + c).
+
+ 2. highlight a text you want to serach in youtube and to search press (ctrl + shift + v).
+
+ 3. highlight a text you want to GOOGLE , and to add to that text and serach them together , press (window + shift + c)
+    3.1 A input box will open showing what u highlighted
+    3.2 enter the text you want to add and then press ok
+    3.3 if you want it to google search only what you entered, put '|' before the text you entered.  eg.  |pewdiepie
+ 
+ 4. highlight a text you want to search in YOUTUBE , and to add to that text and serach them together , press (window + shift + v)
+    4.1 A input box will open showing what u highlighted
+    4.2 enter the text you want to add and then press ok
+    4.3 if you want it to youtube search only what you entered, put '|' before the text you entered.  eg.  |pewdiepie
+ 
+    
+ 
